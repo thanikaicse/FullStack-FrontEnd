@@ -1,0 +1,54 @@
+.view{
+     width: 100%;
+     background-color: gray;
+     position: relative;
+}
+.picture{
+    padding:2% 2% 2% 2%;
+    border-color: black;
+    position:absolute;
+    display: block;
+    height:40%;
+    width:40%;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+
+}
+.individual{
+    position:absolute;
+    display: block;
+    height: 65%;
+    width:30%;
+    bottom:5%;
+    left:2%;
+
+}
+.individual1{
+    position:absolute;
+    display: block;
+    height: 65%;
+    width:33%;
+    bottom:5%;
+    right:37% ;
+
+}
+.individual2{
+    position:absolute;
+    display: block;
+    height: 65%;
+    width:35%;
+    bottom:5%;
+    right:2%;
+
+}
+.msg{
+    position:relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    text-decoration: oldlace;
+    font-size: 14px;;
+    
+}
